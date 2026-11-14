@@ -1,0 +1,10 @@
+.main{
+    padding:0;
+    width: max-content;
+    height: max-content;
+}
+
+.footer-credits{
+    display:flex;
+    text-align: center;
+}
