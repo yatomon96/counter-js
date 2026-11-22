@@ -1,7 +1,8 @@
 .main{
     padding:0;
-    width: max-content;
-    height: max-content;
+    margin: 40px;
+    width: 800px;
+    height: 500px;
 }
 
 .footer-credits{
