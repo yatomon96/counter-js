@@ -1,21 +1,17 @@
-const addbtn=document.querySelector("#add-Btn");
-const reducebtn=document.querySelector("#reduce-Btn");
-const resetbtn=document.querySelector("#reset-Btn");
+const addbtn=document.querySelector("#add-btn");
+const reducebtn=document.querySelector("#reduce-btn");
+const resetbtn=document.querySelector("#reset-btn");
 const counter=document.querySelector("#counter");
 let conta=0;
 addbtn.addEventListener("click",function(){
     conta+=1;
-console.log(conta);
-console.log(EventTarget(addbtn))
+    counter.textContent=conta;
 });
 reducebtn.addEventListener("click",function(){
     conta-=1;
-    console.log(conta);
-    console.log(EventTarget(reducebtn))
+    counter.textContent=conta;
 });
 resetbtn.addEventListener("click",function(){
-    if (target.classlist.contains("reset-btn")){
-conta=0
-counter.textContent(conta)
-console.log(EventTarget(resetbtn))
-    }});
+    conta=0;
+    counter.textContent=conta;
+    });
