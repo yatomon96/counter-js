@@ -1,22 +1,106 @@
-body{
-    background-color: #0b0f17;
-    text-align:center;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.main{
-    padding:0;
-    border-radius:8px;
-    border:1px rgba(148, 163, 184, 0.16);
-    margin: 40px;
-    width: 800px;
-    height: 500px;
-    background-color: #121826;
+* {
+    box-sizing: border-box;
 }
 
-#counter{
-    color: #f1f5f9;
+body {
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    background:
+        linear-gradient(rgba(0, 240, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 240, 255, 0.03) 1px, transparent 1px),
+        #0f172a;
+    background-size: 32px 32px;
+    color: #e2e8f0;
+    font-family: "Courier New", Courier, monospace;
 }
-.footer-credits{
-    display:block;
-    background-color: white;
+
+.main {
+    width: min(800px, calc(100% - 32px));
+    min-height: 500px;
+    padding: 50px 24px;
+    border: 1px solid rgba(0, 240, 255, 0.35);
+    border-radius: 12px;
+    background: rgba(17, 32, 56, 0.95);
+    text-align: center;
+    box-shadow:
+        0 0 30px rgba(0, 240, 255, 0.08),
+        inset 0 0 30px rgba(0, 240, 255, 0.03);
+}
+
+h1 {
+    margin: 0 0 50px;
+    color: #00f0ff;
+    letter-spacing: 6px;
+    text-shadow: 0 0 12px rgba(0, 240, 255, 0.7);
+}
+
+.counter-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+#counter {
+    min-width: 180px;
+    margin: 0;
+    color: #00f0ff;
+    font-size: 64px;
+    font-weight: bold;
+    text-shadow: 0 0 18px rgba(0, 240, 255, 0.6);
+}
+
+button {
+    border: 1px solid #00f0ff;
+    border-radius: 6px;
+    background: #112038;
+    color: #00f0ff;
+    font-family: inherit;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+#add-btn,
+#reduce-btn {
+    width: 56px;
+    height: 56px;
+    font-size: 24px;
+}
+
+#reset-btn {
+    display: block;
+    width: 120px;
+    height: 42px;
+    margin: 36px auto 0;
+    border-color: #ff4da6;
+    color: #ff4da6;
+}
+
+button:hover {
+    background: #00f0ff;
+    color: #0f172a;
+    box-shadow: 0 0 18px rgba(0, 240, 255, 0.7);
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+#reset-btn:hover {
+    background: #ff4da6;
+    color: #0f172a;
+    box-shadow: 0 0 18px rgba(255, 77, 166, 0.6);
+}
+
+.footer-credits {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 12px;
+    background: #0b1220;
+    color: #64748b;
+    text-align: center;
 }
