@@ -37,7 +37,7 @@ h1 {
 }
 
 .counter-controls {
-    display: flex;
+    display:flex;
     align-items: center;
     justify-content: center;
     gap: 24px;
