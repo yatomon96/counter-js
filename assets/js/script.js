@@ -1,14 +1,14 @@
-let count = 0;
-
-const counterControl = document.querySelector(".counter-controls");
-const resetControl = document.querySelector(".reset-control");
-const mainDiv = document.querySelector(".main");
-const footerdiv= document.querySelector(".footer-credits");
-
 document.addEventListener("DOMContentLoaded", function () {
-    const titolo = document.createElement("h1");
-    titolo.textContent = "COUNTER";
-    mainDiv.prepend(titolo);
+    let count = 0;
+    
+    const counterControl = document.querySelector(".counter-controls");
+    const resetControl = document.querySelector(".reset-control");
+    const mainDiv = document.querySelector(".main");
+    const footerdiv= document.querySelector(".footer-credits");
+
+    const titlecounter = document.createElement("h1");
+    titlecounter.textContent = "COUNTER";
+    mainDiv.prepend(titlecounter);
 
     const reduceButton = document.createElement("button");
     reduceButton.textContent = "-";
