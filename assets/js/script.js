@@ -55,6 +55,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const credit1=document.createElement("p");
     const credit2=document.createElement("p");
     credit1.textContent = "Made by Silvia Hu";
-    credit2.textContent="All credit reserved";
+    credit2.textContent="All rights reserved";
     footerdiv.append(credit1,credit2)
 });
