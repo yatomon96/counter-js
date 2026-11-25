@@ -26,8 +26,8 @@ document.addEventListener("DOMContentLoaded", function () {
     resetButton.textContent = "RESET";
     resetButton.id = "reset-btn";
 
-    counterControl.append(reduceButton, counter, addButton);
-    resetControl.append(resetButton);
+    counterControl.appendChild(reduceButton, counter, addButton);
+    resetControl.appendChild(resetButton);
 
     function displayCounter() {
         counter.textContent = count;
@@ -56,5 +56,5 @@ document.addEventListener("DOMContentLoaded", function () {
     const credit2=document.createElement("p");
     credit1.textContent = "Made by Silvia Hu";
     credit2.textContent="All rights reserved";
-    footerdiv.append(credit1,credit2)
+    footerdiv.appendChild(credit1,credit2)
 });
