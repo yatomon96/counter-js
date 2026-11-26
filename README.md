@@ -4,10 +4,11 @@ A simple web application for counting, developed with only JavaScript.
 
 #DEMO: https://counter-js-yatomon96.netlify.app/
 
-#HOW IT WORKS
--Increase the number with '+'
--Decrese the number with '-'
--
+<ul>#HOW IT WORKS
+<li> -Increase the number with '+'</li>
+<li> -Decrese the number with '-'</li>
+<li>- Reset </li>
+</ul>
 
 #TECHNOLOGIES
 -HTML
