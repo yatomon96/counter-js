@@ -1,15 +1,15 @@
-#COUNTER JS
+# COUNTER JS
 
 A simple web application for counting, developed with only JavaScript.
 
-##DEMO: https://counter-js-yatomon96.netlify.app/
+#DEMO: https://counter-js-yatomon96.netlify.app/
 
-##HOW IT WORKS
+#HOW IT WORKS
 -Increase the number with '+'
 -Decrese the number with '-'
 -
 
-##TECHNOLOGIES
+#TECHNOLOGIES
 -HTML
 -CSS
 -JavaScript with DOM Manipulation
