@@ -18,10 +18,15 @@
 <li>JavaScript with DOM manipulation</li>
 </ul>
 
+<h2>STRUCTURE:</h2>
+counter-js/
+├── index.html
+├── assets/
+│   ├── css/
+│   └── js/
+└── README.md
 <h3>CONTACT & SOCIAL LINK:</h3>
 <ul>
-  <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/ </li>
-  <li>Instagram: instagram.com/silvixlite</li>
-  <li>Github: https://github.com/yatomon96</li>
+  <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/</li>  <li>Github: https://github.com/yatomon96</li>
 </li>
 </ul>
