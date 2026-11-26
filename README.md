@@ -1,14 +1,14 @@
 # COUNTER JS
 
-<p>A simple web application for counting, developed with only JavaScript.</p>
+<p>A simple web application for counting, developed with pure Javascript.</p>
 
 <h3>DEMO: https://counter-js-yatomon96.netlify.app/ </h3>
 
 <h2>HOW IT WORKS</h2>
 <ul>
 <li>Increase the number with '+' button </li>
-<li>Decrese the number with '-' button </li>
-<li>Reset the counter with "Reset" button </li>
+<li>Decrease the number with '-' button </li>
+<li>Reset the counter with 'Reset' button </li>
 </ul>
 
 <h2>TECHNOLOGIES</h2>
