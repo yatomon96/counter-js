@@ -17,3 +17,11 @@
 <li>CSS</li>
 <li>JavaScript with DOM manipulation</li>
 </ul>
+
+<h3>CONTACT:</h3>
+<ul>
+  <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/ </li>
+  <li>instagram.com/silvixlite
+  <li>>Github: https://github.com/yatomon96</li>
+</li>
+</ul>
