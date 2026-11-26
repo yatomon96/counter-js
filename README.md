@@ -6,9 +6,9 @@
 
 <h2>HOW IT WORKS</h2>
 <ul>
-<li>Increase the number with '+'</li>
-<li>Decrese the number with '-'</li>
-<li>Reset </li>
+<li>Increase the number with '+' button </li>
+<li>Decrese the number with '-' button </li>
+<li>Reset the counter with "Reset" button </li>
 </ul>
 
 <h2>TECHNOLOGIES</h2>
