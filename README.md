@@ -4,13 +4,15 @@
 
 #DEMO: https://counter-js-yatomon96.netlify.app/
 
-<ul>#HOW IT WORKS
+#HOW IT WORKS
+<ul>
 <li>Increase the number with '+'</li>
 <li>Decrese the number with '-'</li>
 <li>Reset </li>
 </ul>
 
-<ul>#TECHNOLOGIES
+#TECHNOLOGIES
+<ul>
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript with DOM manipulation</li>
