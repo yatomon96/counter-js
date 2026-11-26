@@ -21,7 +21,7 @@
 <h3>CONTACT:</h3>
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/ </li>
-  <li>Instagram: instagram.com/silvixlite </li>
+  <li>Instagram: instagram.com/silvixlite</li>
   <li>>Github account: https://github.com/yatomon96</li>
 </li>
 </ul>
