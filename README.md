@@ -2,7 +2,7 @@
 
 <p>A simple web application for counting, developed with only JavaScript.</p>
 
-<h2>DEMO: https://counter-js-yatomon96.netlify.app/ </h2>
+<h3>DEMO: https://counter-js-yatomon96.netlify.app/ </h3>
 
 <h2>HOW IT WORKS</h2>
 <ul>
@@ -21,7 +21,7 @@
 <h3>CONTACT:</h3>
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/ </li>
-  <li>instagram.com/silvixlite
-  <li>>Github: https://github.com/yatomon96</li>
+  <li>Instagram: instagram.com/silvixlite </li>
+  <li>>Github account: https://github.com/yatomon96</li>
 </li>
 </ul>
