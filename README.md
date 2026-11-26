@@ -3,6 +3,8 @@
 <p>A simple web application for counting, developed with pure Javascript.</p>
 
 <h3>DEMO: https://counter-js-yatomon96.netlify.app/ </h3>
+git clone https://github.com/yatomon96/counter-js.git
+cd counter-js
 
 <h2>HOW IT WORKS</h2>
 <ul>
