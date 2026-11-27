@@ -1,35 +1,49 @@
-<h1>COUNTER JS</h1>
+# Counter JS
 
-<p>A simple web application for counting, developed with pure Javascript.</p>
+A simple web application for counting, built with vanilla JavaScript.
 
-<h3>DEMO: https://counter-js-yatomon96.netlify.app/ </h3>
+![Counter JS preview](./assets/preview.png)
 
-<h2>HOW IT WORKS</h2>
-<ul>
-<li>Increase the number with '+' button </li>
-<li>Decrease the number with '-' button </li>
-<li>Reset the counter with 'Reset' button </li>
-</ul>
+🔗 **[Live demo](https://counter-js-yatomon96.netlify.app/)**
 
-<h2>TECHNOLOGIES</h2>
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript with DOM manipulation</li>
-</ul>
+## How it works
 
-<h2>STRUCTURE:</h2>
-<ul>counter-js/
-    <li>index.html<li>
-    <ul>
-      <li>assets/</li>
-      <li>css/</li>
-      <li>js/</li>
-    </ul>
-    <li>README.md</li>
-</ul>
+- Increase the number with the **+** button
+- Decrease the number with the **-** button
+- Reset the counter to zero with the **Reset** button
 
-<h3>CONTACT & SOCIAL LINK:</h3>
-<ul>
-  <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/</li>  <li>Github: https://github.com/yatomon96</li>
-</ul>
+## Technologies
+
+- HTML
+- CSS
+- JavaScript (DOM manipulation and event handling)
+
+## Project structure
+
+```
+counter-js/
+├── index.html
+├── assets/
+├── css/
+├── js/
+└── README.md
+```
+
+## Run it locally
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yatomon96/counter-js.git
+   ```
+2. Open `index.html` in your browser.
+
+## What I learned
+
+- Selecting and updating elements with the DOM
+- Handling user events (`click`)
+- Keeping the interface in sync with a variable
+
+## Contact
+
+- LinkedIn: [Silvia Hu](https://www.linkedin.com/in/silvia-hu-a84817412/)
+- GitHub: [yatomon96](https://github.com/yatomon96)
