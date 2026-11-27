@@ -24,9 +24,12 @@ A simple web application for counting, built with vanilla JavaScript.
 counter-js/
 ├── index.html
 ├── assets/
-├── css/
-├── js/
-├──img/
+│   ├── css/
+│   │   └── style.css
+│   ├── img/
+│   │   └── preview.webp
+│   └── js/
+│       └── script.js
 └── README.md
 ```
 
