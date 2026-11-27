@@ -3,7 +3,7 @@
 <p>A simple web application for counting, developed with pure Javascript.</p>
 
 <h3>DEMO: https://counter-js-yatomon96.netlify.app/ </h3>
-<img width="1341" height="740" alt="counterjs di Hu Silvia" src="https://github.com/user-attachments/assets/08efd53b-6df1-4c98-b7ad-14876a3e473d" />
+<img width="1200" height="600" alt="counterjs di Hu Silvia" src="https://github.com/user-attachments/assets/08efd53b-6df1-4c98-b7ad-14876a3e473d" />
 
 <h2>HOW IT WORKS</h2>
 <ul>
