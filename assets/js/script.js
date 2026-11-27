@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const counterControl = document.querySelector(".counter-controls");
     const resetControl = document.querySelector(".reset-control");
     const mainDiv = document.querySelector(".main");
-    const footerdiv= document.querySelector(".footer-credits");
+    const footerDiv= document.querySelector(".footer-credits");
 
     const titlecounter = document.createElement("h1");
     titlecounter.textContent = "COUNTER";
@@ -56,6 +56,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const credit2=document.createElement("p");
     credit1.textContent = "Made by Silvia Hu";
     credit2.textContent="All rights reserved";
-    footerdiv.append(credit1)
-    footerdiv.append(credit2)
+    footerDiv.append(credit1);
+    footerDiv.append(credit2);
 });
