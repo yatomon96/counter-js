@@ -26,6 +26,7 @@ counter-js/
 ├── assets/
 ├── css/
 ├── js/
+├──img/
 └── README.md
 ```
 
