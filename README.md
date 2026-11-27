@@ -21,11 +21,11 @@
 
 <h2>STRUCTURE:</h2>
 counter-js/
------------index.html
------------assets/
-------------------css/
-------------------js/
------------README.md
+├── index.html
+├── assets/
+│   ├── css/
+│   └── js/
+└── README.md
  
 <h3>CONTACT & SOCIAL LINK:</h3>
 <ul>
