@@ -24,9 +24,9 @@
  <li>index.html</li>
 <li><ul>assets/</li>
 <li>css/</li>
-│   └── js/
+<li>js/</li>
 </ul>
-└── README.md
+<li>README.md</li>
  </ul>
 <h3>CONTACT & SOCIAL LINK:</h3>
 <ul>
