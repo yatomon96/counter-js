@@ -1,10 +1,9 @@
-# COUNTER JS
+<h1>COUNTER JS</h1>
 
 <p>A simple web application for counting, developed with pure Javascript.</p>
 
 <h3>DEMO: https://counter-js-yatomon96.netlify.app/ </h3>
-git clone https://github.com/yatomon96/counter-js.git
-cd counter-js
+
 
 <h2>HOW IT WORKS</h2>
 <ul>
@@ -29,6 +28,6 @@ counter-js/ <br/>
 └── README.md
 <h3>CONTACT & SOCIAL LINK:</h3>
 <ul>
-  <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/</li>  <li>Github: https://github.com/yatomon96</li>
-</li>
+  <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/</li>  
+  <li>Github: https://github.com/yatomon96</li>
 </ul>
