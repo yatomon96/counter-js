@@ -2,7 +2,7 @@
 
 A simple web application for counting, built with vanilla JavaScript.
 
-![Counter JS preview](./assets/preview.png)
+![Counter JS preview](./assets/preview.webp)
 
 🔗 **[Live demo](https://counter-js-yatomon96.netlify.app/)**
 
