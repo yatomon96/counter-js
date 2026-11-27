@@ -28,7 +28,6 @@ counter-js/
 │   │   └── style.css
 │   ├── img/
 │   │   └── preview.webp
-│   │   └── favicon.webp
 │   └── js/
 │       └── script.js
 └── README.md
