@@ -20,14 +20,13 @@
 </ul>
 
 <h2>STRUCTURE:</h2>
-<ul>counter-js/
- <li>index.html</li>
-<li><ul>assets/</li>
-<li>css/</li>
-<li>js/</li>
-</ul>
-<li>README.md</li>
- </ul>
+counter-js/
+           index.html
+           assets/
+                  css/
+                  js/
+           README.md
+ 
 <h3>CONTACT & SOCIAL LINK:</h3>
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/silvia-hu-a84817412/</li>  <li>Github: https://github.com/yatomon96</li>
