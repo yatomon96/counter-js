@@ -20,11 +20,11 @@
 </ul>
 
 <h2>STRUCTURE:</h2>
-counter-js/
-├── index.html
-├── assets/
-│   ├── css/
-│   └── js/
+counter-js/ <br/>
+├── index.html<br/>
+├── assets/<br/>
+│   ├── css/<br/>
+│   └── js/<br/>
 └── README.md
  
 <h3>CONTACT & SOCIAL LINK:</h3>
